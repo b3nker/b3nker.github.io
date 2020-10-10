@@ -3,7 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, I'm Benjamin Kermani. I'm passionate about CS, AI and Robotics. 
   <br></br>
-  I also practice rowing on my spare time. 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I also practice rowing on my spare time.
+  <br></br>
+  <a href="https://www.linkedin.com/in/benjamin-kermani/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
