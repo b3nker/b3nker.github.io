@@ -1,7 +1,9 @@
 title: Benjamin Kermani # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello, I'm Benjamin Kermani. I'm passionate about CS, AI, Robotics and Rowing. I'm currently studying Computer Science at INSA Lyon, in France. 
+description:
+  Hello, I'm Benjamin Kermani. I'm passionate about CS, AI, Robotics and Rowing.
+  <br></br>
+  I'm currently studying Computer Science at INSA Lyon, in France.
   <br></br>
   <a href="https://www.linkedin.com/in/benjamin-kermani/">View My LinkedIn Profile</a> 
   
