@@ -1,7 +1,9 @@
 title: Benjamin Kermani # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello, I'm Benjamin Kermani. I'm passionate about CS, AI and robotics. I also practice rowing on my spare time. 
+  Hello, I'm Benjamin Kermani. I'm passionate about CS, AI and robotics. 
+  <br></br>
+  I also practice rowing on my spare time. 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
